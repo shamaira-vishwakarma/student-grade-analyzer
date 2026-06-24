@@ -49,7 +49,7 @@ python analyze.py
 python report.py
 ```
 
-## 📈 Analysis Performed
+## Analysis Performed
 
 * Average marks per student
 * Topper in each subject
